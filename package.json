@@ -27,7 +27,7 @@
     "getmac": "1.0.7",
     "graceful-fs": "4.1.11",
     "http-proxy-agent": "0.2.7",
-    "https-proxy-agent": "0.3.6",
+    "https-proxy-agent": "2.2.3",
     "iconv-lite": "0.4.15",
     "minimist": "1.2.0",
     "native-keymap": "0.4.0",
