@@ -100,7 +100,7 @@
     "tslint": "^4.3.1",
     "typescript": "2.1.5",
     "typescript-formatter": "4.0.1",
-    "uglify-js": "2.4.8",
+    "uglify-js": "3.10.0",
     "underscore": "^1.8.2",
     "vinyl": "^0.4.5",
     "vinyl-fs": "^2.4.3",
